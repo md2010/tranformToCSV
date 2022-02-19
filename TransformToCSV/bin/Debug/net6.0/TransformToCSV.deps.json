@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TransformToCSV/1.0.0": {
+        "runtime": {
+          "TransformToCSV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TransformToCSV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

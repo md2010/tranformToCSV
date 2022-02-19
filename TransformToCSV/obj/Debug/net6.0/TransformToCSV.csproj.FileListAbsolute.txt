@@ -1,0 +1,15 @@
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\bin\Debug\net6.0\TransformToCSV.exe
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\bin\Debug\net6.0\TransformToCSV.deps.json
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\bin\Debug\net6.0\TransformToCSV.runtimeconfig.json
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\bin\Debug\net6.0\TransformToCSV.dll
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\bin\Debug\net6.0\ref\TransformToCSV.dll
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\bin\Debug\net6.0\TransformToCSV.pdb
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\obj\Debug\net6.0\TransformToCSV.csproj.AssemblyReference.cache
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\obj\Debug\net6.0\TransformToCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\obj\Debug\net6.0\TransformToCSV.AssemblyInfoInputs.cache
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\obj\Debug\net6.0\TransformToCSV.AssemblyInfo.cs
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\obj\Debug\net6.0\TransformToCSV.csproj.CoreCompileInputs.cache
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\obj\Debug\net6.0\TransformToCSV.dll
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\obj\Debug\net6.0\ref\TransformToCSV.dll
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\obj\Debug\net6.0\TransformToCSV.pdb
+C:\Users\Martina\Documents\Other\Diplomski\1. godina\RUAP\Projekt\TransformToCSV\TransformToCSV\obj\Debug\net6.0\TransformToCSV.genruntimeconfig.cache
